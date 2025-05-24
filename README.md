@@ -20,7 +20,7 @@ A **responsive Flutter-based news application** that delivers real-time news usi
 
 * **Flutter** (Dart)
 * **HTTP** for API integration
-* **Provider for state management
+* **Provider** for state management
 
 
 
