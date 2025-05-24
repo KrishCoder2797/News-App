@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "903883305598",
+    "project_id": "pnews-5f1ad",
+    "storage_bucket": "pnews-5f1ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903883305598:android:a0cc8dbf0da816173a5e2f",
+        "android_client_info": {
+          "package_name": "com.pdevelopment.pnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903883305598-06fs8vde1l5c9n0nhkpnf9vsrkqi1cqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDADZYPY-OqTTuyTSaMJCJoklRgN1Y0mRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903883305598-06fs8vde1l5c9n0nhkpnf9vsrkqi1cqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
