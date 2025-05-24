@@ -1,6 +1,4 @@
-Here’s a professional and concise GitHub project description for your Flutter-based news app:
 
----
 
 ## 📰 Flutter News App
 
