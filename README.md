@@ -20,7 +20,7 @@ A **responsive Flutter-based news application** that delivers real-time news usi
 
 * **Flutter** (Dart)
 * **HTTP** for API integration
-* **Provider / Riverpod / Bloc** (mention the one you used) for state management
-* **Shared Preferences / Hive** (if used) for local storage
+* **Provider for state management
+
 
 
